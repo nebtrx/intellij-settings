@@ -1,0 +1,80 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/work/scala/onesignal" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/Elastic4sTest" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/actors-cats-effect-fs2" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/admin-motorfy" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/akka-vs-scalaz" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/alpakka" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/dockerized-example-services" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/elevator-system" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/functional-raft" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/http4s" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/http4s-middleware-experiment" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/http4s-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/io-and-logging-capabilities" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/latam-sdk-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-credit-bureau" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-credito-real" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-kernel" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-motor-credit" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-motorcredit-core-ecuador" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-motorquote-core-mexico" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-motorsla" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-motorwarranty-core-mexico" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-notification-center" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/microservice-pipedrive" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/motorcredit-repo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/motorfy" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/mouse" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/optimized-tagless" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/raftakka" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/scala-optics" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/scala-pet-store" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/sharing-state-cats-effect" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/tagless-final-styles" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/terminology" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-alpakka-sqs" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-config" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-eff" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-flyway" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-free-tagless" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-http4s-middleware" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-inmutable-maps" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-json4s" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-monix" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-scalaxb" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-scan" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-shapeless" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-soap-finagle" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-sttp" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/test-zio" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/tickets4sale" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/timers-playground" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/todelete" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/todolist-a-la-freestyle" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/tvi" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/uuid4s" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/zio-todo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/work/scala/zzz" value="PREVIEW" />
+            <entry key="$USER_HOME$/latam-sdk-scala" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/Library/Caches/IdeaIC2017.3/extResources/cad5bd9d_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/Library/Caches/IdeaIC2017.3/extResources/42abd8c6_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$USER_HOME$/Library/Caches/IdeaIC2017.3/extResources/9ecabba1_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/mime/" location="$USER_HOME$/Library/Caches/IdeaIC2017.3/extResources/9f0c1575_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/Library/Caches/IdeaIC2017.3/extResources/9f6330fe_.xml" />
+  </component>
+</application>

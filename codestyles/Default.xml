@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="120" />
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.latamautos.kernel.scala.util.util" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+</code_scheme>
