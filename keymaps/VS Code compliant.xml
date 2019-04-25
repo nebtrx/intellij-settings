@@ -290,6 +290,10 @@
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
