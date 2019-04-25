@@ -63,6 +63,9 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
