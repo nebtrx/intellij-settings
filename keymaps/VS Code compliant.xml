@@ -262,6 +262,13 @@
   </action>
   <action id="ResizeToolWindowRight" />
   <action id="Resume" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="meta f9" />
+  </action>
+  <action id="RunCoverage">
+    <keyboard-shortcut first-keystroke="meta f10" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="f10" />
