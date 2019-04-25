@@ -20,10 +20,6 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="meta semicolon" />
-  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -263,6 +259,10 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Scala.Sbt.ShowSetting">
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
@@ -278,15 +278,10 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="SelectIn" />
-  <action id="SelectInProjectView">
+  <action id="SelectIn">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="ctrl f1" />
-    <keyboard-shortcut first-keystroke="meta l" />
-  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
