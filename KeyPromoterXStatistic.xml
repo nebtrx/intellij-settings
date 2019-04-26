@@ -57,12 +57,38 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'KeycloakErrorHelperTest.mapKeycloackErrorMessage maps GroupNameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UnauthorizedError properly&#10;mapKeycloackErrorMessage maps InvalidRefreshTokenError properly&#10;mapKeycloackErrorMessage maps RoleNotFoundError properly&#10;mapKeycloackErrorMessage maps SessionNotFoundError properly&#10;mapKeycloackErrorMessage maps GroupNotFoundError properly&#10;mapKeycloackErrorMessage maps UserNotFoundError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly for email already in use&#10;mapKeycloackErrorMessage maps InvalidCredentialsError properly&#10;mapKeycloackErrorMessage maps DisabledUserError properly&#10;mapKeycloackErrorMessage maps NotActiveUserSessionError properly&#10;mapKeycloackErrorMessage maps SessionExpiredError properly&#10;mapKeycloackErrorMessage maps RefreshTokenExpiredError properly&#10;mapKeycloackErrorMessage maps AccessTokenInvalidError properly&#10;mapKeycloackErrorMessage maps AccessTokenExpiredError properly&#10;mapKeycloackErrorMessage maps NotFoundUserSessionError properly&#10;mapKeycloackErrorMessage maps DealerUserPrivilegesRequiredError properly&#10;mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'KeycloakErrorHelperTest.mapKeycloackErrorMessage maps GroupNameAlreadyExistError properly
+mapKeycloackErrorMessage maps UnauthorizedError properly
+mapKeycloackErrorMessage maps InvalidRefreshTokenError properly
+mapKeycloackErrorMessage maps RoleNotFoundError properly
+mapKeycloackErrorMessage maps SessionNotFoundError properly
+mapKeycloackErrorMessage maps GroupNotFoundError properly
+mapKeycloackErrorMessage maps UserNotFoundError properly
+mapKeycloackErrorMessage maps UsernameAlreadyExistError properly
+mapKeycloackErrorMessage maps UsernameAlreadyExistError properly for email already in use
+mapKeycloackErrorMessage maps InvalidCredentialsError properly
+mapKeycloackErrorMessage maps DisabledUserError properly
+mapKeycloackErrorMessage maps NotActiveUserSessionError properly
+mapKeycloackErrorMessage maps SessionExpiredError properly
+mapKeycloackErrorMessage maps RefreshTokenExpiredError properly
+mapKeycloackErrorMessage maps AccessTokenInvalidError properly
+mapKeycloackErrorMessage maps AccessTokenExpiredError properly
+mapKeycloackErrorMessage maps NotFoundUserSessionError properly
+mapKeycloackErrorMessage maps DealerUserPrivilegesRequiredError properly
+mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
