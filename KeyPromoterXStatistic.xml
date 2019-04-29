@@ -38,7 +38,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥⇧F7' or '⌘F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -63,6 +63,14 @@
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AdminUserApplication...'">
@@ -104,7 +112,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'localhost:5009'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -112,7 +120,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
     </option>

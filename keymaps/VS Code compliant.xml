@@ -267,7 +267,6 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="ResizeToolWindowRight" />
-  <action id="Resume" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="meta f9" />
