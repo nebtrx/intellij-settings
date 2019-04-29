@@ -6,7 +6,7 @@
           <IdeaActionID>XDebugger.AttachToProcess</IdeaActionID>
           <ShortCut>'⌃⌥F5'</ShortCut>
           <Description>Attach to Process...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -112,7 +112,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'localhost:5009'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -120,7 +120,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
     </option>
