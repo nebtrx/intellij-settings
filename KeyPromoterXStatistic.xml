@@ -115,6 +115,14 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
