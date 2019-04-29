@@ -75,6 +75,12 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+  </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
