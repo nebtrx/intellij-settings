@@ -113,6 +113,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ScalaTests in 'scala...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃F9' or '⌘F9'</ShortCut>
+          <Description>Run 'ScalaTests in 'scala...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BankAccountDomainServiceTest.create WHEN everything goes okay creates the bank account'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
