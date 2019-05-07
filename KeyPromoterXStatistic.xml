@@ -192,7 +192,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'localhost:5009'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
