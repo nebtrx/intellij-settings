@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or '⇧F2' or '⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -94,6 +94,14 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump To Source</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -126,6 +134,14 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Resume Program</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌃⌥Z'</ShortCut>
+          <Description>Revert...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -192,7 +208,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'localhost:5009'</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -208,7 +224,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>56</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
     </option>
