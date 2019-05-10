@@ -16,4 +16,11 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="Q" value="&quot;$SELECTION$&quot;" shortcut="NONE" description="Surround with &quot;&quot;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
 </templateSet>
