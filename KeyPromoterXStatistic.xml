@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings Repository…">
+        <Item>
+          <IdeaActionID>ConfigureIcs</IdeaActionID>
+          <ShortCut>'⇧⌘S'</ShortCut>
+          <Description>Settings Repository…</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BankAccountDomainServiceTest.create WHEN everything goes okay creates the bank account'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
