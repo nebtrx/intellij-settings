@@ -227,6 +227,14 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TurboCashQuoteCalculatorTest.calculateQuoteBank calculates quote values properly (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'TurboCashQuoteCalculatorTest.calculateQuoteBank calculates quote values properly (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'localhost:5009'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
