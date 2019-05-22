@@ -256,7 +256,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
     </option>
