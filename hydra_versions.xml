@@ -1,0 +1,11 @@
+<application>
+  <component name="HydraVersionsCache">
+    <option name="latestRelease">
+      <CachedArtifactMetadata>
+        <option name="cacheTimestamp" value="1559235857147" />
+        <option name="releaseVersion" value="2.1.5" />
+        <option name="repositoryUrl" value="https://repo.triplequote.com/artifactory/libs-release/" />
+      </CachedArtifactMetadata>
+    </option>
+  </component>
+</application>
