@@ -287,6 +287,9 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Scala.NewClass">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="n" />
+  </action>
   <action id="Scala.Sbt.ShowSetting">
     <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
