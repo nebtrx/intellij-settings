@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Scala Class">
+        <Item>
+          <IdeaActionID>Scala.NewClass</IdeaActionID>
+          <ShortCut>'⌘K, N'</ShortCut>
+          <Description>Scala Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings Repository…">
         <Item>
           <IdeaActionID>ConfigureIcs</IdeaActionID>
