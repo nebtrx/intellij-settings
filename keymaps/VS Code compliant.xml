@@ -365,8 +365,12 @@
   </action>
   <action id="TabShiftActions.MoveFocusUp" />
   <action id="TabShiftActions.ShiftDown" />
-  <action id="TabShiftActions.ShiftLeft" />
-  <action id="TabShiftActions.ShiftRight" />
+  <action id="TabShiftActions.ShiftLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="TabShiftActions.ShiftRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="TabShiftActions.ShiftUp" />
   <action id="TabShiftActions.StretchLeft">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
