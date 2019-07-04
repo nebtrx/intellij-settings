@@ -206,7 +206,7 @@
           <IdeaActionID>Scala.NewClass</IdeaActionID>
           <ShortCut>'⌘K, N'</ShortCut>
           <Description>Scala Class</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings Repository…">
