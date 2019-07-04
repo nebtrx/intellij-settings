@@ -350,6 +350,24 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TabShiftActions.MoveFocusDown" />
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="TabShiftActions.MoveFocusUp" />
+  <action id="TabShiftActions.ShiftDown" />
+  <action id="TabShiftActions.ShiftLeft" />
+  <action id="TabShiftActions.ShiftRight" />
+  <action id="TabShiftActions.ShiftUp" />
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
