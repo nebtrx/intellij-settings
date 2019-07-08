@@ -45,15 +45,13 @@
   </action>
   <action id="CollapseAll" />
   <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="p" />
-    <keyboard-shortcut first-keystroke="meta m" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="CollapseRegionRecursively">
@@ -134,8 +132,7 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="m" />
-    <keyboard-shortcut first-keystroke="meta m" second-keystroke="m" />
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
   <action id="ExpandAllToLevel1" />
   <action id="ExpandAllToLevel2" />
@@ -147,7 +144,6 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="ExpandRegionRecursively">
