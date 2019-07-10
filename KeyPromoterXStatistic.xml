@@ -145,6 +145,22 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Package">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <ShortCut>'⌘K, P'</ShortCut>
+          <Description>Package</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Package Object">
+        <Item>
+          <IdeaActionID>Scala.NewPackageObject</IdeaActionID>
+          <ShortCut>'⌘K, O'</ShortCut>
+          <Description>Package Object</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
