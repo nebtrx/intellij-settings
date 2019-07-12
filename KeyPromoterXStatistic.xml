@@ -6,7 +6,7 @@
           <IdeaActionID>Debugger.AddToWatch</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Add to Watches</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Attach to Process...">
@@ -86,6 +86,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Debug 'TurboCashQuoteCalcul...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -249,6 +257,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION CANCELLED event AND the relay gateway fails returns 500'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION CANCELLED event AND the relay gateway fails returns 500'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION PAYMENT FAILED event AND the relay gateway fails returns 500'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION PAYMENT FAILED event AND the relay gateway fails returns 500'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'KeycloakErrorHelperTest.mapKeycloackErrorMessage maps GroupNameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UnauthorizedError properly&#10;mapKeycloackErrorMessage maps InvalidRefreshTokenError properly&#10;mapKeycloackErrorMessage maps RoleNotFoundError properly&#10;mapKeycloackErrorMessage maps SessionNotFoundError properly&#10;mapKeycloackErrorMessage maps GroupNotFoundError properly&#10;mapKeycloackErrorMessage maps UserNotFoundError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly for email already in use&#10;mapKeycloackErrorMessage maps InvalidCredentialsError properly&#10;mapKeycloackErrorMessage maps DisabledUserError properly&#10;mapKeycloackErrorMessage maps NotActiveUserSessionError properly&#10;mapKeycloackErrorMessage maps SessionExpiredError properly&#10;mapKeycloackErrorMessage maps RefreshTokenExpiredError properly&#10;mapKeycloackErrorMessage maps AccessTokenInvalidError properly&#10;mapKeycloackErrorMessage maps AccessTokenExpiredError properly&#10;mapKeycloackErrorMessage maps NotFoundUserSessionError properly&#10;mapKeycloackErrorMessage maps DealerUserPrivilegesRequiredError properly&#10;mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -304,7 +328,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
     </option>
