@@ -190,7 +190,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -299,6 +299,14 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OperationsLoggerTest.log WHEN everything goes okay saves the log properly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'OperationsLoggerTest.log WHEN everything goes okay saves the log properly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TurboCashQuoteCalculatorTest.calculateQuoteBank calculates quote values properly (1)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -328,7 +336,7 @@ mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</D
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>123</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
     </option>
