@@ -76,6 +76,8 @@
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -117,6 +119,14 @@
   </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorToggleColumnMode">
