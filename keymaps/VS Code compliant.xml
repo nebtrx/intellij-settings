@@ -76,6 +76,8 @@
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />

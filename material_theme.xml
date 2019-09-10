@@ -11,12 +11,11 @@
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="tabOpacity" value="100" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="tabsHeight" value="27" />
+    <option name="tabsHeight" value="20" />
     <option name="accentColor" value="1ca3e9" />
     <option name="highlightColor" value="1ca3e9" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-c879792:167bcfd9461:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.4.6" />
   </component>
 </application>
