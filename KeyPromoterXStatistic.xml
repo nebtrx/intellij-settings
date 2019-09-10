@@ -1,0 +1,352 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add to Watches">
+        <Item>
+          <IdeaActionID>Debugger.AddToWatch</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Add to Watches</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Attach to Process...">
+        <Item>
+          <IdeaActionID>XDebugger.AttachToProcess</IdeaActionID>
+          <ShortCut>'⌃⌥F5'</ShortCut>
+          <Description>Attach to Process...</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘-'</ShortCut>
+          <Description>Back</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'⌃M, P' or '⌘M, P'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⌃⇧C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy Value</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AdminGroupApplicatio...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Debug 'AdminGroupApplicatio...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AdminGroupApplicationServiceTest.addBan…s okay creates the correspondent account'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Debug 'AdminGroupApplicationServiceTest.addBan…s okay creates the correspondent account'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TurboCashQuoteCalcul...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Debug 'TurboCashQuoteCalcul...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥⇧F7' or '⌘F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="GoTo">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12' or '⇧F2' or '⌘B'</ShortCut>
+          <Description>GoTo</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⌃⇧F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump To Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'⌃⌥M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Package">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <ShortCut>'⌘K, P'</ShortCut>
+          <Description>Package</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Package Object">
+        <Item>
+          <IdeaActionID>Scala.NewPackageObject</IdeaActionID>
+          <ShortCut>'⌘K, O'</ShortCut>
+          <Description>Package Object</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌃⌥Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdminGroupApplicatio...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃F9' or '⌘F9'</ShortCut>
+          <Description>Run 'AdminGroupApplicatio...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AdminUserApplication...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃F9'</ShortCut>
+          <Description>Run 'AdminUserApplication...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScalaTests in 'scala...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃F9' or '⌘F9'</ShortCut>
+          <Description>Run 'ScalaTests in 'scala...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scala Class">
+        <Item>
+          <IdeaActionID>Scala.NewClass</IdeaActionID>
+          <ShortCut>'⌘K, N'</ShortCut>
+          <Description>Scala Class</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings Repository…">
+        <Item>
+          <IdeaActionID>ConfigureIcs</IdeaActionID>
+          <ShortCut>'⇧⌘S'</ShortCut>
+          <Description>Settings Repository…</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BankAccountDomainServiceTest.create WHEN everything goes okay creates the bank account'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'BankAccountDomainServiceTest.create WHEN everything goes okay creates the bank account'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventsControllerTest.EventsController WHEN it receives SUBSCRIPTION PAID event AND everything goes okay returns 200'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'EventsControllerTest.EventsController WHEN it receives SUBSCRIPTION PAID event AND everything goes okay returns 200'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION CANCELLED event AND the relay gateway fails returns 500'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION CANCELLED event AND the relay gateway fails returns 500'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION PAYMENT FAILED event AND the relay gateway fails returns 500'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'EventsControllerTest.EventsController WHEN it receives a SUBSCRIPTION PAYMENT FAILED event AND the relay gateway fails returns 500'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'KeycloakErrorHelperTest.mapKeycloackErrorMessage maps GroupNameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UnauthorizedError properly&#10;mapKeycloackErrorMessage maps InvalidRefreshTokenError properly&#10;mapKeycloackErrorMessage maps RoleNotFoundError properly&#10;mapKeycloackErrorMessage maps SessionNotFoundError properly&#10;mapKeycloackErrorMessage maps GroupNotFoundError properly&#10;mapKeycloackErrorMessage maps UserNotFoundError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly&#10;mapKeycloackErrorMessage maps UsernameAlreadyExistError properly for email already in use&#10;mapKeycloackErrorMessage maps InvalidCredentialsError properly&#10;mapKeycloackErrorMessage maps DisabledUserError properly&#10;mapKeycloackErrorMessage maps NotActiveUserSessionError properly&#10;mapKeycloackErrorMessage maps SessionExpiredError properly&#10;mapKeycloackErrorMessage maps RefreshTokenExpiredError properly&#10;mapKeycloackErrorMessage maps AccessTokenInvalidError properly&#10;mapKeycloackErrorMessage maps AccessTokenExpiredError properly&#10;mapKeycloackErrorMessage maps NotFoundUserSessionError properly&#10;mapKeycloackErrorMessage maps DealerUserPrivilegesRequiredError properly&#10;mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'KeycloakErrorHelperTest.mapKeycloackErrorMessage maps GroupNameAlreadyExistError properly
+mapKeycloackErrorMessage maps UnauthorizedError properly
+mapKeycloackErrorMessage maps InvalidRefreshTokenError properly
+mapKeycloackErrorMessage maps RoleNotFoundError properly
+mapKeycloackErrorMessage maps SessionNotFoundError properly
+mapKeycloackErrorMessage maps GroupNotFoundError properly
+mapKeycloackErrorMessage maps UserNotFoundError properly
+mapKeycloackErrorMessage maps UsernameAlreadyExistError properly
+mapKeycloackErrorMessage maps UsernameAlreadyExistError properly for email already in use
+mapKeycloackErrorMessage maps InvalidCredentialsError properly
+mapKeycloackErrorMessage maps DisabledUserError properly
+mapKeycloackErrorMessage maps NotActiveUserSessionError properly
+mapKeycloackErrorMessage maps SessionExpiredError properly
+mapKeycloackErrorMessage maps RefreshTokenExpiredError properly
+mapKeycloackErrorMessage maps AccessTokenInvalidError properly
+mapKeycloackErrorMessage maps AccessTokenExpiredError properly
+mapKeycloackErrorMessage maps NotFoundUserSessionError properly
+mapKeycloackErrorMessage maps DealerUserPrivilegesRequiredError properly
+mapKeycloackErrorMessage maps InvalidClientSecretConfigurationError properly'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OperationsLoggerTest.log WHEN everything goes okay saves the log properly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'OperationsLoggerTest.log WHEN everything goes okay saves the log properly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PaymentsApplicationServiceTest.createCustomer when everything goes okay performs the operation and returns the customer DTO'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'PaymentsApplicationServiceTest.createCustomer when everything goes okay performs the operation and returns the customer DTO'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TurboCashQuoteCalculatorTest.calculateQuoteBank calculates quote values properly (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'TurboCashQuoteCalculatorTest.calculateQuoteBank calculates quote values properly (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'localhost:5009'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'localhost:5009'</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>132</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
