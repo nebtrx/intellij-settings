@@ -220,7 +220,6 @@
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="NextSplitter">
@@ -239,7 +238,6 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="PreviousProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
   </action>
   <action id="PreviousTab">
