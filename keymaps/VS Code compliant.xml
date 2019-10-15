@@ -70,6 +70,9 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="Console.TableResult.Reload" />
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
