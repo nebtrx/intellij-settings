@@ -25,12 +25,20 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="Activatesbt-shell-toolwindowToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ActivatesbtToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta minus" />
