@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
