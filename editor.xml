@@ -1,0 +1,5 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\b(todo|fixme|ask|note)\b.*" />
+  </component>
+</application>
