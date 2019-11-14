@@ -3,6 +3,6 @@
     <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern case-sensitive="true" pattern="\b(todo|fixme|ask|note)\b.*" />
+    <pattern pattern="\b(todo|fixme|ask|note)\b.*" />
   </component>
 </application>
