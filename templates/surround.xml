@@ -3,7 +3,8 @@
     <context>
       <option name="GROOVY" value="false" />
       <option name="JSP" value="false" />
-      <option name="OTHER" value="true" />
+      <option name="SCALA_CODE" value="true" />
+      <option name="SCALA_STRING" value="true" />
     </context>
   </template>
   <template name="H" value="$HKT$[$SELECTION$]" shortcut="NONE" description="Surround with higher kinded type []" toReformat="true" toShortenFQNames="true">
@@ -18,6 +19,14 @@
       <option name="GROOVY" value="false" />
       <option name="JSP" value="false" />
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="C" value="$TYPE_CONSTRUCTOR$($SELECTION$)" shortcut="NONE" description="Surround with Type Constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE_CONSTRUCTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="SCALA_CODE" value="true" />
+      <option name="SCALA_STRING" value="true" />
     </context>
   </template>
 </templateSet>
