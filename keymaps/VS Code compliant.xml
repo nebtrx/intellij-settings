@@ -309,10 +309,6 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="Scala.ExpandImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
-  </action>
   <action id="Scala.NewClass">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="n" />
   </action>
@@ -321,6 +317,10 @@
   </action>
   <action id="Scala.Sbt.ShowSetting">
     <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ScalaFmtFormat">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
