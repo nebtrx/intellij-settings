@@ -85,6 +85,9 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Console.TableResult.Reload" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="k" />
+  </action>
   <action id="DBNavigator.Actions.Execute">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
