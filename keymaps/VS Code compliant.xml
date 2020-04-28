@@ -181,6 +181,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt f7" />
     <keyboard-shortcut first-keystroke="meta f7" />
@@ -236,6 +246,12 @@
   <action id="JumpToLastChange" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="p" />
