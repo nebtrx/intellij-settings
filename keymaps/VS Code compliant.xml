@@ -260,6 +260,9 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -424,6 +427,9 @@
   </action>
   <action id="TabShiftActions.StretchRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UnselectPreviousOccurrence">
