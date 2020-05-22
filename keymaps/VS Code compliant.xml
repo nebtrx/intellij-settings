@@ -203,7 +203,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift alt f7" />
     <keyboard-shortcut first-keystroke="meta f7" />
   </action>
   <action id="ForceStepInto">
@@ -429,6 +428,9 @@
   </action>
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="ToggleInlayHintsGloballyAction">
+    <keyboard-shortcut first-keystroke="shift meta f7" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UnselectPreviousOccurrence">
