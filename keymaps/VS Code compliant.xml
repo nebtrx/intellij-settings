@@ -47,9 +47,7 @@
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CheckinProject" />
-  <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="alt f5" />
-  </action>
+  <action id="ChooseDebugConfiguration" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
