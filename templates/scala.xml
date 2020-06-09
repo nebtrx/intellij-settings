@@ -34,4 +34,18 @@
       <option name="SCALA_CODE" value="true" />
     </context>
   </template>
+  <template name="suiteziotest" value="suite(&quot;$SUITE_DESCRIPTION$&quot;)(&#10;    $SUITE$&#10;)," description="ZIO Test Suite" toReformat="false" toShortenFQNames="true">
+    <variable name="SUITE_DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SUITE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="testmzio" value="testM(&quot;$DESCRIPTION$&quot;) {&#10;    $TEST_DEFINITION$&#10;}," description="ZIO Test" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_DEFINITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
