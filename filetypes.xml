@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="quote_summary_elasticsearch_mapping_for_createdAt" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
-      <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
-      <mapping pattern=".envlocal" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
+      <mapping pattern=".envlocal" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
