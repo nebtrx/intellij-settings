@@ -17,7 +17,7 @@
   </component>
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|ask|note)\b.*" />
