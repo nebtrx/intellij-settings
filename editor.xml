@@ -16,8 +16,7 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaTypeHintsSettingsModel" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|ask|note)\b.*" />
