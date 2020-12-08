@@ -7,6 +7,7 @@
       <mapping pattern=".envlocal" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
