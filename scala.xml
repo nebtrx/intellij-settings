@@ -2,7 +2,7 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="64419" />
     <option name="COMPILE_SERVER_ID" value="4e8b5495-bf6e-476f-8a09-e240a609cb14" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_SDK" value="11" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="90" />
   </component>
