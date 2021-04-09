@@ -2,6 +2,7 @@
   <component name="DatabaseSettings" version="4">
     <option name="execute-inside-option" value="2" />
     <option name="warn-unsafe-query" value="false" />
+    <option name="ddl-editor-confirm-loss" value="false" />
     <exec-options>
       <exec-option exec-inside="2" />
       <exec-option />
