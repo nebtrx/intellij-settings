@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern="quote_summary_elasticsearch_mapping_for_createdAt" type="PLAIN_TEXT" />
       <mapping pattern=".envlocal" type="PLAIN_TEXT" />
