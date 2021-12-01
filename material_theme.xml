@@ -4,9 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -28,6 +25,6 @@
     <option name="highlightColor" value="1ca3e9" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-c879792:167bcfd9461:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.10.1" />
   </component>
 </application>
