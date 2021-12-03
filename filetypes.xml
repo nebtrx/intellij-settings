@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern=".envlocal" type="PLAIN_TEXT" />
@@ -15,6 +14,7 @@
       <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
       <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
