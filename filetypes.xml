@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="helpers" type="AUTO_DETECTED" />
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="aws-models" type="AUTO_DETECTED" />
       <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
