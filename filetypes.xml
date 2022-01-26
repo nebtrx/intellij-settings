@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="kinesis-writer" type="AUTO_DETECTED" />
       <mapping pattern="helpers" type="AUTO_DETECTED" />
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="rest-api-component" type="AUTO_DETECTED" />
