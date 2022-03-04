@@ -8,7 +8,6 @@
       <mapping pattern="change-data-capture" type="AUTO_DETECTED" />
       <mapping pattern="streamSupplier" type="AUTO_DETECTED" />
       <mapping pattern="aws-models" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern=".envlocal" type="PLAIN_TEXT" />
