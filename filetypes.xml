@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="kinesis-writer" type="AUTO_DETECTED" />
       <mapping pattern="helpers" type="AUTO_DETECTED" />
+      <mapping pattern="adyen_service_spec.ts" type="AUTO_DETECTED" />
       <mapping pattern="adyen-payments" type="AUTO_DETECTED" />
       <mapping pattern="aws-models" type="AUTO_DETECTED" />
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
