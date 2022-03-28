@@ -7,6 +7,7 @@
       <mapping pattern="TimeService" type="AUTO_DETECTED" />
       <mapping pattern="adyen-payments" type="AUTO_DETECTED" />
       <mapping pattern="aws-models" type="AUTO_DETECTED" />
+      <mapping pattern="authorise-payment" type="AUTO_DETECTED" />
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="rest-api-component" type="AUTO_DETECTED" />
       <mapping pattern="change-data-capture" type="AUTO_DETECTED" />
