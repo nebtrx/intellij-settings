@@ -3,20 +3,20 @@
     <extensionMap>
       <mapping pattern="kinesis-writer" type="AUTO_DETECTED" />
       <mapping pattern="helpers" type="AUTO_DETECTED" />
-      <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="adyen_service_spec.ts" type="AUTO_DETECTED" />
-      <mapping pattern="rest-api-component" type="AUTO_DETECTED" />
       <mapping pattern="TimeService" type="AUTO_DETECTED" />
-      <mapping pattern="change-data-capture" type="AUTO_DETECTED" />
-      <mapping pattern="streamSupplier" type="AUTO_DETECTED" />
       <mapping pattern="adyen-payments" type="AUTO_DETECTED" />
       <mapping pattern="aws-models" type="AUTO_DETECTED" />
       <mapping pattern="authorise-payment" type="AUTO_DETECTED" />
+      <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
+      <mapping pattern="rest-api-component" type="AUTO_DETECTED" />
+      <mapping pattern="change-data-capture" type="AUTO_DETECTED" />
+      <mapping pattern="streamSupplier" type="AUTO_DETECTED" />
       <mapping pattern=".part-00000-4a1afad6-eefa-453d-a4bc-eb5bc31b9d75-c000.snappy.orc.crc" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
-      <mapping pattern=".envlocal" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="quote_summary_elasticsearch_mapping_for_createdAt" type="PLAIN_TEXT" />
+      <mapping pattern=".envlocal" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
