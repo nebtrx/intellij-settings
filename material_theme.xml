@@ -4,8 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -18,7 +16,6 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="tabOpacity" value="100" />
     <option name="treeFontSize" value="14" />
     <option name="tabFontSize" value="14" />
     <option name="settingsSelectedTab" value="2" />
@@ -27,6 +24,6 @@
     <option name="highlightColor" value="1ca3e9" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-c879792:167bcfd9461:-8000" />
-    <option name="version" value="7.9.0" />
+    <option name="version" value="7.11.0" />
   </component>
 </application>
